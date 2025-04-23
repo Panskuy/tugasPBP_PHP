@@ -47,7 +47,7 @@ if (isset($_POST["upload"])) {
         <input type="file" name="gambar" id="gambar">
 
         <button type="submit" name="upload">Upload Gambar</button>
-        <p> <?php echo $message ?></p>
+        <p> <?php echo $message ?>.</p>
 
     </form>
 
